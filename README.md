@@ -69,11 +69,11 @@ The table below summarizes leading commercial SaaS and hosted debt collection pl
 
 ## ⚡ Open-Source GitHub Projects
 
-Explore self-hosted, open-source debt collection, credit scoring, loan lifecycle, and AR follow-up software. Repositories below are ordered by **GitHub Star Count (Descending)** with direct links to stargazers.
+Explore self-hosted, open-source debt collection, credit scoring, loan lifecycle, and AR follow-up software. Repositories below are ordered by **GitHub Stars_Count (Descending)** with direct links to stargazers.
 
 ### 🌟 Featured Open-Source Repositories
 
-| Repository | GitHub Stars | License | Core Functionality & Highlights |
+| Repository | GitHub_Stars | License | Core Functionality & Highlights |
 | :--- | :--- | :--- | :--- |
 | **[Apache Fineract](https://github.com/apache/fineract)** 🏛️ | [<img src="https://img.shields.io/github/stars/apache/fineract?style=social&color=white" alt="Apache Fineract Stars"/>](https://github.com/apache/fineract/stargazers) | Apache-2.0 | Core banking & loan platform with delinquency tracking, collection workflow rules, late fee calculation, and charge-off management. |
 | **[Frappe Lending](https://github.com/frappe/lending)** 📊 | [<img src="https://img.shields.io/github/stars/frappe/lending?style=social&color=white" alt="Frappe Lending Stars"/>](https://github.com/frappe/lending/stargazers) | AGPL-3.0 | Modern open-source loan management module for ERPNext; features repayment tracking, overdue penalty calculation, and collection activity logging. |
